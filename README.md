@@ -1,2 +1,0 @@
-# ComponentTodoReact
-Created with CodeSandbox
